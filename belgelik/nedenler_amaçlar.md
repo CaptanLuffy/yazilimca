@@ -1,5 +1,5 @@
 # Nedenler Amaçlar
-Türkçe yazılım dili olamaz mı? Türkçe ile yazılım yazılamaz mı? Türkçe ile bilim yapılamaz mı? Bu sorulara yanıtlar veren dünyaca tanınmış bilimciler vardır. Gerek ana dili Türkçe olsun, gerek Türkçe olmasın Türkçe'nin kendisinden etkilenmişler ve yorumlarını dile getirmişlerdir. Bu kişilerden kimileri Johan VANDEWALLE, Oktay SİNANOĞLU, David CUTHELL, Ludwig WITTGENSTEIN idir. 
+Türkçe yazılım dili olamaz mı? Türkçe ile yazılım yazılamaz mı? Türkçe ile bilim yapılamaz mı? Dünyaca tanınmış bilim insanlarının bu sorularını yanıtları vardır. Gerek ana dili Türkçe olsun, gerek Türkçe olmasın Türkçe'nin kendisinden etkilenmişler ve yorumlarını dile getirmişlerdir. Bu bilim insanlarının isimleri Johan VANDEWALLE, Oktay SİNANOĞLU, David CUTHELL, Ludwig WITTGENSTEIN'dir. 
 
 ## Neden Türkçe, Neden Türkçe Yazılım Dili?
 Türkçe denildiğinde yalnız bir iki ülkeyi düşünüyorsanız büyük bir yanılgıdasınız demektir. Öncelikle **Neden Türkçe?** sorusuna yanıt verseriz. Yeryüzünde **Türkçe**yi **ana dili**  olarak konuşan kişi sayısı bir görüşe göre 250.000.000 dolaylarında iken kimilerine göre 350.000.000'dan çoktur. Sayıca en çok konuşulan dillerin arasında yerini alır. Türk dillerini, yani Türkçeleri yakın uzak ayırt etmeden tek tek saymak gerekirse.
